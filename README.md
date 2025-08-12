@@ -18,16 +18,6 @@ The project includes multiple pages with product listings, a shopping cart mocku
 
 ---
 
-## 🖼️ UI Preview
-Screenshots of the website:
-- ![Home Page](index.html)
-- ![Products Page](products.html)
-- ![Cake Page](cake.html)
-
-*(Replace these with actual image file paths in the repo)*
-
----
-
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3
 - **Assets:** `.jpg`, `.jfif`, `.webp` images for bakery products
